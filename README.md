@@ -27,6 +27,9 @@
 * [Data Science cheatsheets](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5).
 * [Море ссылок](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie) от Кати. Если есть время и желание просмотреть большее число источников, то Катин список для вас.
 
+# Рекомендации для начинающих
+
+В первую очередь, стоит познакомиться с "Учебником от Яндекс", пройти курс "Введение в машинное обучение", и войти в чат ODS. Если уже есть какое-то представление об ML или хорошая математическая подготовка, то можно начать с курса "Машинное обучение и анализ данных" и/или CS231n.
 
 
 
