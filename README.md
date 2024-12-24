@@ -19,6 +19,7 @@
   - [Интро в большие языковые модели (LLM)](https://youtu.be/zjkBMFhNj_g?si=gLNkXpNdTcs85Zzw);
   - [Токенизация в GPT и как ее закодить](https://youtu.be/zduSFxRajkE?si=khIu-MFx5KnPGdlG);
   - [Как воспроизвести и натренировать GPT-2 (124M) с нуля](https://www.youtube.com/watch?v=l8pRSuU81PU).
+* [Блог](https://lena-voita.github.io/posts.html) на гитхаб. Автор Е.Войта бывший сотрудник FAIR.
 * [Видеоразборы](https://youtu.be/59p997Ovj5w?list=PLvqwYT_ECloZPB2BsBerHXxMpLGr2xuw9) статей по тематике LLM от Twelve Labs.
 * [Обзор](https://arxiv.org/pdf/2406.06608) техник промпт инженеринга. Думаю, он скоро устареет (к 2026), но всё же.
 
