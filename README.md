@@ -9,15 +9,24 @@
 * [Machine Learning](https://ru.coursera.org/learn/machine-learning). Эндрю Ын читает курс на Coursera по ML.
 * [Лекции по ML](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%28%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%2C_%D0%9A.%D0%92.%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%29). Один из самых известных российских преподавателей - К.В. Воронцов и его курс в ВШЭ, а вот [здесь](https://yadi.sk/d/V9p7E6uAFjHcD) отдельно лежат видео лекций.
 * [Лекции по ML и DL](https://alexanderdyakonov.wordpress.com/courses/). Автор А.Г. Дьяконов.
-* [Видеолекции](https://youtu.be/FNDQYM0hjh0) к курсу Прикладные задачи анализа данных. . Автор А.Г. Дьяконов.
+* [Видеолекции](https://youtu.be/FNDQYM0hjh0) к курсу Прикладные задачи анализа данных. Автор А.Г. Дьяконов.
+
+## Материалы по LLM
+
+* Обучающие материалы от А. Карпатого ([youtube канал](https://www.youtube.com/@AndrejKarpathy)):
+  - [Строим GPT с нуля, с разбором кода в ноутбуке](https://youtu.be/kCc8FmEb1nY);
+  - [Как тренировали ChatGPT (large scale)](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2);
+  - [Интро в большие языковые модели (LLM)](https://youtu.be/zjkBMFhNj_g?si=gLNkXpNdTcs85Zzw);
+  - [Токенизация в GPT и как ее закодить](https://youtu.be/zduSFxRajkE?si=khIu-MFx5KnPGdlG);
+  - [Как воспроизвести и натренировать GPT-2 (124M) с нуля](https://www.youtube.com/watch?v=l8pRSuU81PU).
+* [Видеоразборы](https://youtu.be/59p997Ovj5w?list=PLvqwYT_ECloZPB2BsBerHXxMpLGr2xuw9) статей по тематике LLM от Twelve Labs.
+* [Обзор](https://arxiv.org/pdf/2406.06608) техник промпт инженеринга. Думаю, он скоро устареет (к 2026), но всё же.
 
 ## Книги и статьи
 * [Учебник от Яндекса](https://ml-handbook.ru/). Подойдет для начинающих.
 * [Deep Learning Book](https://www.deeplearningbook.org/). Большая хорошая книга по DL от Яна Гудфеллоу с соавторами.
-* [Обзор](https://arxiv.org/pdf/2406.06608) техник промпт инженеринга. Думаю, он скоро устареет (к 2026), но всё же.
-* [Видеоразборы](https://youtu.be/59p997Ovj5w?list=PLvqwYT_ECloZPB2BsBerHXxMpLGr2xuw9) статей по тематике LLM от Twelve Labs.
 * [Semantic scholar](https://www.semanticscholar.org/). Сайт посвящен кратким изложениям недавно опубликованных статей.
-* 
+
 ## Общение
 В этом разделе все перечисленные группы, которые были, устарели.
 
