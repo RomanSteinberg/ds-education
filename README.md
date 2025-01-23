@@ -34,7 +34,7 @@
 
 ## Новости
 * [ForkLog AI](https://t.me/forklogAI). Телеграм канал с новостями мира AI.
-* [Эй Ай ньяз](https://t.me/ai_newz) - Телеграм канал в немного "пацанском" стиле, но автор Staff Research Scientist в Meta Generative AI, и понимает во многих областях DS.
+* [Эй Ай ньюз](https://t.me/ai_newz) - Телеграм канал в немного "пацанском" стиле, но автор Staff Research Scientist в Meta Generative AI, и понимает во многих областях DS.
 * [Data Secrets](https://t.me/data_secrets) ещё Телеграм канал, в котором довольно много новостей, статей, разбавленных шутейками/мемами.
 
 ## Разное
