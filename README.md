@@ -10,6 +10,7 @@
 * [Лекции по ML](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%28%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%2C_%D0%9A.%D0%92.%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%29). Один из самых известных российских преподавателей - К.В. Воронцов и его курс в ВШЭ, а вот [здесь](https://yadi.sk/d/V9p7E6uAFjHcD) отдельно лежат видео лекций.
 * [Лекции по ML и DL](https://alexanderdyakonov.wordpress.com/courses/). Автор А.Г. Дьяконов.
 * [Видеолекции](https://youtu.be/FNDQYM0hjh0) к курсу Прикладные задачи анализа данных. Автор А.Г. Дьяконов.
+* [Audio Signal Processing for ML](https://www.youtube.com/watch?v=iCwMQJnKk2c&list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0) видеолекции содержат фундаментальные знания об аудио, его устройстве, характеристиках. Есть лекции, которые можно промотать (например про комплексные числа), но в целом много полезной информации.
 
 ## Материалы по LLM
 
